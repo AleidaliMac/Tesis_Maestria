@@ -1,9 +1,9 @@
 # Detección de zonas de potencial crecimiento para las micro empresas en Nuevo León, Nayarit y Yucatán, basado en técnicas de Clustering Espectral
 *Trabajo de tesis para obtener el grado de Maestra en Cómputo Estadístico CIMAT Monterrey*
-*Presenta
-Yareli Aleidali Macías Ángeles
-Director de Tesis:
-Dra. Graciela Ma. González Farías
+
+*Presenta: Yareli Aleidali Macías Ángeles
+
+*Director de Tesis: Dra. Graciela Ma. González Farías
 
 Resumen
 En México, las micro empresas representan alrededor de 95% de los establecimientos
