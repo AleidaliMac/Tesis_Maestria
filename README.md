@@ -33,7 +33,3 @@ años.
 
 Link Dashboard:
 https://app.powerbi.com/view?r=eyJrIjoiZDBiOWFkZWUtMWUyZS00NmViLTk3ZTgtYmNjOWQzYTUzMzVjIiwidCI6IjA3YTgxZjc2LWQwMzEtNGUzOC04YTZmLWQ5MzQ5Y2QwMzI4MSJ9
-
-Link Código:
-https://colab.research.google.com/drive/1z8TjqocS-kayVvVcAduFQpcsV1baK2VC?usp=sharing#scrollTo=d11moZ4qUnEe
-
